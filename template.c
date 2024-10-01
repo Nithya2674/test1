@@ -5,5 +5,6 @@ ADD();
 SUB();
   adding changes;
 MUL();
+adding changes in the local repository and push the changes;
 DIV();
 }
